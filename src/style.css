@@ -1,0 +1,13 @@
+h1, p {
+  font-family: Lato;
+}
+
+.checklist-item{
+  margin: 10px 0;
+}
+.checklist-item .delete-btn{
+  float: right;
+}
+* {
+  background-color :#E9F2FD;
+}
